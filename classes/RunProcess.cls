@@ -1,6 +1,7 @@
 public with sharing class RunProcess {
     public void say1() {
         System.debug('1');
+        System.debug('1');
     }
     
     public void say2() {
