@@ -6,17 +6,21 @@ public with sharing class RunProcess {
     
     public void say2() {
         System.debug('2');
+        System.debug('2');
     }
     
     public void say3() {
+        System.debug('3');
         System.debug('3');
     }
     
     public void say4() {
         System.debug('4');
+        System.debug('4');
     }
     
     public void say5() {
+        System.debug('5');
         System.debug('5');
     }
     
