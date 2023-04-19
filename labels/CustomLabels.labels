@@ -22,6 +22,13 @@
         <value>Size is :</value>
     </labels>
     <labels>
+        <fullName>Name</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Name</shortDescription>
+        <value>Size is :</value>
+    </labels>
+    <labels>
         <fullName>SuccessMessage</fullName>
         <language>en_US</language>
         <protected>true</protected>
