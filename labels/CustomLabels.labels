@@ -8,6 +8,13 @@
         <value>Please mark this as complete.</value>
     </labels>
     <labels>
+        <fullName>HelloWorld</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>HelloWorld</shortDescription>
+        <value>Hello World</value>
+    </labels>
+    <labels>
         <fullName>Script</fullName>
         <language>en_US</language>
         <protected>true</protected>
@@ -27,5 +34,12 @@
         <protected>true</protected>
         <shortDescription>SuccessMessage</shortDescription>
         <value>The operation was successful</value>
+    </labels>
+    <labels>
+        <fullName>There_is_an_error</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>There is an error</shortDescription>
+        <value>There is an error.</value>
     </labels>
 </CustomLabels>
