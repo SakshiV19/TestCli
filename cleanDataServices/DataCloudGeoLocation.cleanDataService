@@ -14,7 +14,7 @@
                 <fieldMappingFields>
                     <dataServiceField>Street</dataServiceField>
                     <dataServiceObjectName>ServiceTerritoryMember</dataServiceObjectName>
-                    <priority>1</priority>
+                    <priority>2</priority>
                 </fieldMappingFields>
                 <fieldName>AddressLine1</fieldName>
                 <mappingOperation>Autofill</mappingOperation>
