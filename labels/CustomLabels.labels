@@ -8,6 +8,13 @@
         <value>Please mark this as complete.</value>
     </labels>
     <labels>
+        <fullName>Sakshi</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Sakshi</shortDescription>
+        <value>Please mark this as complete.</value>
+    </labels>
+    <labels>
         <fullName>Script</fullName>
         <language>en_US</language>
         <protected>true</protected>
@@ -19,6 +26,13 @@
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>Size</shortDescription>
+        <value>Size is :</value>
+    </labels>
+    <labels>
+        <fullName>Name</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Name</shortDescription>
         <value>Size is :</value>
     </labels>
     <labels>
