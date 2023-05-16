@@ -48,8 +48,8 @@
                 <SObjectType>DatacloudAddress</SObjectType>
                 <fieldMappingFields>
                     <dataServiceField>Street</dataServiceField>
-                    <dataServiceObjectName>ResourceAbsence</dataServiceObjectName>
-                    <priority>1</priority>
+                    <dataServiceObjectName>ServiceTerritoryMember</dataServiceObjectName>
+                    <priority>2</priority>
                 </fieldMappingFields>
                 <fieldName>AddressLine1</fieldName>
                 <mappingOperation>Autofill</mappingOperation>
